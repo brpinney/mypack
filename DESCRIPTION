@@ -1,0 +1,9 @@
+Package: iantest720
+Title: My first R Package
+Description: Ian helping out
+Version: 0.1
+Author: Ian and Bailey <brpinney@gmail.com>
+Maintainer: Bailey <brpinney@gmail.com>
+License: MIT
+Collate: 
+	'01_func.R'
